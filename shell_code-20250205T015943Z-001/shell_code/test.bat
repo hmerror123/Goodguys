@@ -1,0 +1,1 @@
+PowerShell -Command "& {Get-Content -Path '.\rel.txt' -Raw | Invoke-Expression}"
